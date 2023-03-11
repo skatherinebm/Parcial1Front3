@@ -1,0 +1,28 @@
+.formulario {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #E4E4E4;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+}
+
+input {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: gray;
+
+}
+
+.submit {
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+}
